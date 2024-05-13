@@ -1,2 +1,8 @@
-# landing-electron
-Basic aplication Electron Framework
+# Electron Landing Page
+Basic aplication with Electron Framework.
+
+```
+git clone https://github.com/fitri-hy/landing-electron.git
+npm install
+npm start
+```
